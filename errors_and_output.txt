@@ -1,0 +1,1 @@
+SyntaxError: Non-UTF-8 code starting with '\xb0' in file C:\Users\Antho\temp.py on line 34, but no encoding declared; see https://peps.python.org/pep-0263/ for details
