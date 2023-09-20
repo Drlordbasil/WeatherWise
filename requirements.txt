@@ -1,0 +1,9 @@
+The package requirements for the given Python program are:
+
+- `os`
+- `requests`
+- `bs4` (BeautifulSoup)
+- `sklearn.linear_model` (LinearRegression)
+- `matplotlib.pyplot` (plt)
+
+Make sure you have these packages installed in your Python environment to run the script successfully.
